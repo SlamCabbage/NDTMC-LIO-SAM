@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "specialfunctions": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp"
+    }
+}
