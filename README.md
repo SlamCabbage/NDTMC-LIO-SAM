@@ -7,10 +7,10 @@ version 2023-6-17
 Our method is tested on the open source dataset KITTI.
 
 The results of our method on the three sequences of KITTI 02, 07 and 08 are:
-<p align="center"><img src="NDTMC-LIO-SAM/doc/ndtmc-liosam.pdf" width=900></p>
+<p align="center"><img src="/doc/ndtmc-liosam.pdf" width=900></p>
 
 On the basis of the same threshold setting, the results of SC-LIO-SAM are:
-<p align="center"><img src="NDTMC-LIO-SAM/doc/sc-liosam.pdf" width=900></p>
+<p align="center"><img src="/doc/sc-liosam.pdf" width=900></p>
 
 ## How to use?
 - You can download the [KITTI](https://drive.google.com/drive/folders/1gJHwfdHCRdjP7vuT556pv8atqrCJPbUq?usp=sharing) we provide, and then you can complete the self-test according to the following steps:
@@ -40,7 +40,7 @@ After compiling, you can use the script we provide to run the program,
 ## Dependency
 - All dependencies are same as the original [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM#dependency)
 
-## Cite SC-LIO-SAM 
+## Cite NDTMC-LIO-SAM 
 
 ```
 @INPROCEEDINGS { 
