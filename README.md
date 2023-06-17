@@ -28,7 +28,7 @@ When the similarity threshold is 0.6, the time required by the two methods is co
  For example, 
 
     ```
-    cd ~/catkin_ws/src
+    cd ~/catkin_ws
     git clone https://github.com/SlamCabbage/NDTMC-LIO-SAM.git
     cd ..
     catkin_make
