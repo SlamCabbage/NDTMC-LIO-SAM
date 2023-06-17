@@ -9,16 +9,17 @@ Our method is tested on the open source dataset KITTI.
 The matching results of our method on the three sequences of KITTI 02, 07 and 08 are:
 <!-- <p align="center"><img src="/doc/ndtmc-liosam.pdf" width=900></p> -->
 
-[ndtmc-liosam.pdf](https://github.com/SlamCabbage/NDTMC-LIO-SAM/files/11778273/ndtmc-liosam.pdf)
+<p align="center"><img width="900" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/859d8b4b-02eb-4175-8a69-29379a4f8e8f">
 
 On the basis of the same threshold setting, the matching results of SC-LIO-SAM are:
 <!-- <p align="center"><img src="/doc/sc-liosam.pdf" width=900></p> -->
 
-[sc-liosam.pdf](https://github.com/SlamCabbage/NDTMC-LIO-SAM/files/11778274/sc-liosam.pdf)
+<p align="center"><img width="1500" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/e6849ebf-88dd-44d5-94de-20aee0b20f6a">
 
 When the similarity threshold is 0.6, the time required by the two methods is compared:
 
-[timecompare.pdf](https://github.com/SlamCabbage/NDTMC-LIO-SAM/files/11778278/timecompare.pdf)
+<p align="center"><img width="900" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/f92925f1-8408-4b2c-b197-0b009bc483d8">
+
 
 ## How to use?
 - You can download the [KITTI](https://drive.google.com/drive/folders/1gJHwfdHCRdjP7vuT556pv8atqrCJPbUq?usp=sharing) we provide, and then you can complete the self-test according to the following steps:
