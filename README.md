@@ -6,11 +6,19 @@ version 2023-6-17
 ## Example
 Our method is tested on the open source dataset KITTI.
 
-The results of our method on the three sequences of KITTI 02, 07 and 08 are:
-<p align="center"><img src="/doc/ndtmc-liosam.pdf" width=900></p>
+The matching results of our method on the three sequences of KITTI 02, 07 and 08 are:
+<!-- <p align="center"><img src="/doc/ndtmc-liosam.pdf" width=900></p> -->
 
-On the basis of the same threshold setting, the results of SC-LIO-SAM are:
-<p align="center"><img src="/doc/sc-liosam.pdf" width=900></p>
+[ndtmc-liosam.pdf](https://github.com/SlamCabbage/NDTMC-LIO-SAM/files/11778273/ndtmc-liosam.pdf)
+
+On the basis of the same threshold setting, the matching results of SC-LIO-SAM are:
+<!-- <p align="center"><img src="/doc/sc-liosam.pdf" width=900></p> -->
+
+[sc-liosam.pdf](https://github.com/SlamCabbage/NDTMC-LIO-SAM/files/11778274/sc-liosam.pdf)
+
+When the similarity threshold is 0.6, the time required by the two methods is compared:
+
+[timecompare.pdf](https://github.com/SlamCabbage/NDTMC-LIO-SAM/files/11778278/timecompare.pdf)
 
 ## How to use?
 - You can download the [KITTI](https://drive.google.com/drive/folders/1gJHwfdHCRdjP7vuT556pv8atqrCJPbUq?usp=sharing) we provide, and then you can complete the self-test according to the following steps:
