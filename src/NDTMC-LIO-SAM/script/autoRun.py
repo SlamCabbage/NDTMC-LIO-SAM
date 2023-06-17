@@ -20,9 +20,9 @@ def launch_rosbag_playback(launch_file, bag_file):
 
 if __name__ == '__main__':
     # 设置launch文件和bag文件的路径
-    launch_file = '/home/liaolizhou/liosam/Myproject/src/SC-LIO-SAM/launch/run.launch'
+    launch_file = 'path/to/run.launch'
     bag_files = [
-        '/media/liaolizhou/Dataset1/KITTI/kitti_2011_09_30_drive_0027_synced.bag'
+        'path/to/.bag'
     ]
 
     for bag_file in bag_files:
