@@ -1,7 +1,7 @@
 # NDTMC-LIO-SAM
 version 2023-6-17 
 **A real-time lidar-inertial SLAM package.**
-- This repository is a SLAM method combined with [NDTMC](https://github.com/SlamCabbage/NDTMC) and LIO[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), which enables Robust loop closure detection to eliminate accumulated errors.
+- This repository is a SLAM method combined with [NDTMC](https://github.com/SlamCabbage/NDTMC) and [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), which enables Robust loop closure detection to eliminate accumulated errors.
 
 ## Example
 Our method is tested on the open source dataset KITTI.
