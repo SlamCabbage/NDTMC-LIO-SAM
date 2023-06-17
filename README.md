@@ -67,6 +67,17 @@ After compiling, you can use the script we provide to run the program,
   organization={IEEE}
 }
 ```
+ and
+ ```
+ @inproceedings { gkim-2018-iros,
+  author = {Kim, Giseop and Kim, Ayoung},
+  title = { Scan Context: Egocentric Spatial Descriptor for Place Recognition within {3D} Point Cloud Map },
+  booktitle = { Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems },
+  year = { 2018 },
+  month = { Oct. },
+  address = { Madrid }
+}
+ ```
 
 ## Contact
 - Maintainer: Lizhou Liao (`liaolizhou@icloud.com`)
