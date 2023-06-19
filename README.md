@@ -18,11 +18,11 @@ On the basis of the same threshold setting, the matching results of SC-LIO-SAM a
 
 When the similarity threshold is 0.6, the trajectory comparison figure is as follows:
  
-<p align="center"><img width="900" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/82aa82fb-e5c0-40e1-ad29-4282537a65e4">
+<p align="center"><img width="900" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/8bc7d30a-7a53-45d7-99bb-bd3c5c8b826c">
 
 and the time required by the two methods is compared:
 
-<p align="center"><img width="400" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/f92925f1-8408-4b2c-b197-0b009bc483d8">
+<p align="center"><img width="300" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/ea82ed92-0d9c-4022-915f-e9703ad23d9a">
 
 
 ## How to use?
