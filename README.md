@@ -52,6 +52,27 @@ After compiling, you can use the script we provide to run the program,
 
 ## Dependency
 - All dependencies are same as the original [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM#dependency)
+- Additional installation of ceres is required:
+```
+# CMake
+sudo apt-get install cmake
+# google-glog + gflags
+sudo apt-get install libgoogle-glog-dev libgflags-dev
+# Use ATLAS for BLAS & LAPACK
+sudo apt-get install libatlas-base-dev
+# Eigen3
+sudo apt-get install libeigen3-dev
+# SuiteSparse (optional)
+sudo apt-get install libsuitesparse-dev
+git clone https://ceres-solver.googlesource.com/ceres-solver
+cd ceres-solver
+git checkout -b build 1.14.0
+mkdir build
+cd build
+cmake ..
+make -j4
+sudo make install
+```
 
 ## Cite NDTMC-LIO-SAM 
 
