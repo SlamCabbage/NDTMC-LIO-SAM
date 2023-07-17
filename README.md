@@ -9,20 +9,20 @@ Our method is tested on the open source dataset KITTI.
 The matching results of our method on the three sequences of KITTI 02, 07 and 08 are:
 <!-- <p align="center"><img src="/doc/ndtmc-liosam.pdf" width=900></p> -->
 
-<p align="center"><img width="900" alt="image" src="NDTMC-LIO-SAM/doc/ndtmc-liosam.png">
+<p align="center"><img width="900" alt="image" src="doc/ndtmc-liosam.png">
 
 On the basis of the same threshold setting, the matching results of SC-LIO-SAM are:
 <!-- <p align="center"><img src="/doc/sc-liosam.pdf" width=900></p> -->
 
-<p align="center"><img width="900" alt="image" src="NDTMC-LIO-SAM/doc/sc-liosam.png">
+<p align="center"><img width="900" alt="image" src="doc/sc-liosam.png">
 
 When the similarity threshold is 0.6, the trajectory comparison figure is as follows:
  
-<p align="center"><img width="900" alt="image" src="NDTMC-LIO-SAM/doc/trajectorycompare.png">
+<p align="center"><img width="900" alt="image" src="doc/trajectorycompare.png">
 
 and the time required by the two methods is compared:
 
-<p align="center"><img width="300" alt="image" src="NDTMC-LIO-SAM/doc/timecompare.png">
+<p align="center"><img width="300" alt="image" src="doc/timecompare.png">
 
 
 ## How to use?
