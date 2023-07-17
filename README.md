@@ -9,20 +9,20 @@ Our method is tested on the open source dataset KITTI.
 The matching results of our method on the three sequences of KITTI 02, 07 and 08 are:
 <!-- <p align="center"><img src="/doc/ndtmc-liosam.pdf" width=900></p> -->
 
-<p align="center"><img width="900" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/859d8b4b-02eb-4175-8a69-29379a4f8e8f">
+<p align="center"><img width="900" alt="image" src="NDTMC-LIO-SAM/doc/ndtmc-liosam.png">
 
 On the basis of the same threshold setting, the matching results of SC-LIO-SAM are:
 <!-- <p align="center"><img src="/doc/sc-liosam.pdf" width=900></p> -->
 
-<p align="center"><img width="900" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/e6849ebf-88dd-44d5-94de-20aee0b20f6a">
+<p align="center"><img width="900" alt="image" src="NDTMC-LIO-SAM/doc/sc-liosam.png">
 
 When the similarity threshold is 0.6, the trajectory comparison figure is as follows:
  
-<p align="center"><img width="900" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/8bc7d30a-7a53-45d7-99bb-bd3c5c8b826c">
+<p align="center"><img width="900" alt="image" src="NDTMC-LIO-SAM/doc/trajectorycompare.png">
 
 and the time required by the two methods is compared:
 
-<p align="center"><img width="300" alt="image" src="https://github.com/SlamCabbage/NDTMC-LIO-SAM/assets/95751923/ea82ed92-0d9c-4022-915f-e9703ad23d9a">
+<p align="center"><img width="300" alt="image" src="NDTMC-LIO-SAM/doc/timecompare.png">
 
 
 ## How to use?
