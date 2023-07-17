@@ -112,3 +112,4 @@ sudo make install
 
 ## Acknowledgement
   - Thanks for SC-LIO-SAM.
+  - Thanks for NIO low-speed localization and mapping group.
