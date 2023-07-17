@@ -48,6 +48,7 @@ After compiling, you can use the script we provide to run the program,
     ]
     cd src/NDTMC-LIO-SAM/script
     python3 autoRun.py
+    rviz -d src/NDTMC-LIO-SAM/launch/include/config/rviz.rviz
     ```
 
 ## Dependency
