@@ -1,5 +1,7 @@
 # NDTMC-LIO-SAM
 
+The paper is already available at [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
+
 **A real-time lidar-inertial SLAM package.**
 - This repository is a SLAM method combined with [NDTMC](https://github.com/SlamCabbage/NDTMC) and [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), which enables Robust loop closure detection to eliminate accumulated errors.
 
@@ -78,8 +80,13 @@ sudo make install
 ## Cite NDTMC-LIO-SAM 
 
 ```
-@inproceedings { 
- comming soon.
+@misc{liao2023ndtmapcode,
+      title={NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM}, 
+      author={Lizhou Liao and Li Sun and Xinhui Bai and Zhenxing You and Hongyuan Yuan and Chunyun Fu},
+      year={2023},
+      eprint={2307.08221},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
 ```
  and 
