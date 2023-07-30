@@ -535,7 +535,7 @@ void NdtMCManager::makeAndSaveNdtMapCodeAndKeys(pcl::PointCloud<PointT> cloud_in
     transformToNDTForm(1.0, cloud_in);
     // cout << "cloud_in size: " << cloud_in.size() << endl;
     // 2. 获取描述子
-    Eigen::Matrix ndtmc = getNDTLeaves(voxel_grid_frame.getLeaves());
+    Eigen::MatrixXd ndtmc = getNDTLeaves(voxel_grid_frame.getLeaves());
 
     std::vector<float> polarcontext_invkey_vec = eig2stdvec(histogram);
 
