@@ -4,6 +4,9 @@ The paper is already available at [NDT-Map-Code](https://arxiv.org/abs/2307.0822
 
 **A real-time lidar-inertial SLAM package.**
 - This repository is a SLAM method combined with [NDTMC](https://github.com/SlamCabbage/NDTMC) and [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), which enables Robust loop closure detection to eliminate accumulated errors.
+ 
+## Demo
+[![NDT-Map-Code](https://i.ytimg.com/vi/xCtWRlEKCfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=xCtWRlEKCfk "NDT-Map-Code")
 
 ## Example
 Our method is tested on the open source dataset KITTI.
