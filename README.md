@@ -86,13 +86,13 @@ sudo make install
 ## Cite NDTMC-LIO-SAM 
 
 ```
-@misc{liao2023ndtmapcode,
-      title={NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM}, 
-      author={Lizhou Liao and Li Sun and Xinhui Bai and Zhenxing You and Hongyuan Yuan and Chunyun Fu},
-      year={2023},
-      eprint={2307.08221},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@inproceedings{liao2024ndt,
+  title={NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM},
+  author={Liao, Lizhou and Yan, Wenlei and Sun, Li and Bai, Xinhui and You, Zhenxing and Yuan, Hongyuan and Fu, Chunyun},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={7854--7861},
+  year={2024},
+  organization={IEEE}
 }
 ```
  and 
